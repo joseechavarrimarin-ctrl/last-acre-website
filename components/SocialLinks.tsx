@@ -1,7 +1,7 @@
 const links = [
   { label: 'Twitter / X', href: 'https://twitter.com/YOUR_HANDLE' },
   { label: 'Discord', href: 'https://discord.gg/9sfzXrt6r' },
-  { label: 'GitHub', href: 'https://github.com/YOUR_USERNAME/last-acre' },
+  { label: 'GitHub', href: 'https://github.com/joseechavarrimarin-ctrl/last-acre' },
 ]
 
 export default function SocialLinks() {
