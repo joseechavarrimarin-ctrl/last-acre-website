@@ -1,7 +1,7 @@
 'use client'
 import { useState } from 'react'
 
-const FORMSPREE_ENDPOINT = 'https://formspree.io/f/YOUR_FORM_ID'
+const FORMSPREE_ENDPOINT = 'https://formspree.io/f/xeepkrpy'
 
 const FEATURE_OPTIONS = [
   'Multiplayer / co-op farming',
