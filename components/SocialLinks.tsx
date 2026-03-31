@@ -1,6 +1,6 @@
 const links = [
   { label: 'Twitter / X', href: 'https://twitter.com/YOUR_HANDLE' },
-  { label: 'Discord', href: 'https://discord.gg/YOUR_INVITE' },
+  { label: 'Discord', href: 'https://discord.gg/fTW2ePTYk' },
   { label: 'GitHub', href: 'https://github.com/YOUR_USERNAME/last-acre' },
 ]
 
