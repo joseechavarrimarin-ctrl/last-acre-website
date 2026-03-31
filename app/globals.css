@@ -1,3 +1,16 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+@theme {
+  --color-farm-brown: #3d2b1f;
+  --color-farm-brown-light: #5a3e28;
+  --color-farm-green: #7c9a5e;
+  --color-farm-tan: #b5956a;
+  --color-farm-cream: #f5ede0;
+  --color-farm-cream-dark: #eee5d3;
+  --color-farm-border: #d4c5ae;
+  --color-farm-text: #e8d5b0;
+
+  --font-family-serif: var(--font-serif), Georgia, serif;
+  --font-family-sans: var(--font-sans), system-ui, sans-serif;
+}
